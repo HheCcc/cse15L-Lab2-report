@@ -36,6 +36,19 @@
 
 ![Images](privatekey.png)
 
+2. public key:
+
+![Images]
+
+
+4. without key:
+
+![Images](withoutkey.png)
+
+
+## Part 3
+
+
 
 
 
