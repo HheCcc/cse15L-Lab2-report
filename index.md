@@ -34,6 +34,8 @@
 ## Part 2
 1. private key:
 
+![Images](privatekey.png)
+
 
 
 
