@@ -38,15 +38,20 @@
 
 2. public key:
 
-![Images]
+![Images](publickey.png)
 
 
-4. without key:
+3. without key:
 
 ![Images](withoutkey.png)
 
 
 ## Part 3
+* I have learned ssh to a remote server and how to run the server either on EdStem or on ieng6,
+and interact with it by using the “path” and “query” I’ve also leared how to run the server on my
+local computer, and lastly using SSH key to connect to ieng6 server without being asked for a
+password
+
 
 
 
