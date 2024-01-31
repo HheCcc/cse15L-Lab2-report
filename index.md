@@ -6,7 +6,7 @@
 ![Images](code.png)
 
 ## ScreenShot of using `/add-message`
-* `/add-message?s=Hello&user=jpolitz`
+##  `/add-message?s=Hello&user=jpolitz`
 
 ![images](first.png)
 1. Method called:
@@ -19,7 +19,8 @@
   * `url` values changed, we add `/add-message?s=Hello&user=jpolitz` 
   * `String` values changed, we add the `username` and the `message` into the `string`
 
-* `/add-message?s=How are you&user=yash`
+
+## `/add-message?s=How are you&user=yash`
 
 ![images](second.png)
 1. Method called:
@@ -34,16 +35,16 @@
 
 
 ## Part 2
-1. private key:
+## private key:
 
 ![Images](privatekey.png)
 
-2. public key:
+## public key:
 
 ![Images](publickey.png)
 
 
-3. without password:
+## without password:
 
 ![Images](withoutkey.png)
 
