@@ -43,7 +43,7 @@
 ![Images](publickey.png)
 
 
-3. without key:
+3. without password:
 
 ![Images](withoutkey.png)
 
