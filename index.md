@@ -35,9 +35,9 @@
 
 
 ## Part 2
-## private key:
+## private key: `
 
-![Images](privatekey.png)
+![Images](private.png)
 
 ## public key:
 
