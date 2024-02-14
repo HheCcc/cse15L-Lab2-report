@@ -41,7 +41,7 @@
 
 ## public key:
 
-![Images](publickey.png)
+![Images](public.png)
 
 
 ## without password:
