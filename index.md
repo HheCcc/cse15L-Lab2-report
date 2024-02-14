@@ -35,11 +35,11 @@
 
 
 ## Part 2
-## private key: `C:\Users\陈和\.ssh\id_rsa.pub`
+## private key : `C:\Users\陈和\.ssh\id_rsa.pub`
 
 ![Images](private.png)
 
-## public key:`/home/linux/ieng6/oce/19/hec016/.ssh/authorized_keys`
+## public key :`/home/linux/ieng6/oce/19/hec016/.ssh/authorized_keys`
 
 ![Images](public.png)
 
